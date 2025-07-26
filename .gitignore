@@ -1,0 +1,57 @@
+*.user
+# Build directories
+/build/
+/out/
+/bin/
+/Debug/
+/Release/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Qt Creator files
+*.pro.user
+*.qbs.user
+*.creator.user
+*.user
+*.autosave
+
+# Backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+
+# Generated compilation databases
+compile_commands.json
+
+# VSCode files (if you use VSCode)
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# CTest files
+Testing/
+
+# Temporary files
+*.tmp
+
+# Ignore object files and binaries
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.lib
+*.a
+*.out
+
